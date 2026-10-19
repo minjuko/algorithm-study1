@@ -1,14 +1,18 @@
-# AlZalDdak
+# AlZalDdak — 알고리즘 스터디
 ![image](https://github.com/Alzalddak/AlZalDdak/assets/78211281/b0749705-3795-4771-bbe8-21baaf510e39)
 
-- 기간: 2023년 12월~
+- 시작: 2023년 12월
 - 정기 발표: 화, 목, 토요일 오후 9시
 - 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/)
 - 언어: C++, 파이썬, JavaScript, Java
 
+## 스터디 개요
+
+프로그래머스·백준 알고리즘 문제를 학습하고, 정기 발표·라이브 코딩으로 풀이 방식과 시간 복잡도를 공유한 팀 스터디입니다.
+
 ## 스터디 멤버
 
-| [김명지(팀장)](https://github.com/Starlight258)                                    |                          [황수연(팀원)](https://github.com/H-sooyeon)                                        |  [김수빈(팀원)](https://github.com/sooobb)     | [고민주 (팀원)](https://github.com/minjuko) |
+| [김명지(팀장)](https://github.com/Starlight258)                                    |                          [황수연(팀원)](https://github.com/H-sooyeon)                                        |  [김수빈(팀원)](https://github.com/sooobb)     | [고민주 (팀원)](https://github.com/minjuko) |
 | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------------------: |
 | ![Starlight258](https://github.com/Alzalddak/AlZalDdak/assets/78211281/fabaae0c-6295-4bff-b7b8-5a12f43d9be4)            |   ![H-sooyeon](https://github.com/Alzalddak/AlZalDdak/assets/78211281/32305973-685d-488a-a978-33cf08a7fbc0) |  ![image](https://github.com/AlJalTtakKalSen/AlJalTtakKalSen/assets/78211281/4cc7ff8a-0669-4863-925a-b18bb0a97285)| ![minjuko](https://github.com/Alzalddak/AlZalDdak/assets/78211281/ec698b9b-fd17-430b-ab93-32c79f08bbb4) |
 
@@ -27,9 +31,6 @@
 
 1. 매일 한문제를 풀고 main 브랜치에 commit -> push
 2. 공유하고 싶은 문제나 잘 안풀리는 문제는 slack에 공유
-3. 문제 풀이 하지 않을 경우 벌금 납부
-   -  벌금은 2000원부터 시작, 2000원씩 증가하여 모임통장에 납부
-   -  매주 월요일마다 reset
 
 <br/>
 
